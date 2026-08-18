@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exeviour.github.io/gobet/sitemap.xml

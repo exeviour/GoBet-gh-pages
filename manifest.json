@@ -1,0 +1,40 @@
+{
+    "name": "goBet Casino",
+    "short_name": "goBet",
+    "description": "Premium crypto casino with provably fair games",
+    "start_url": "/gobet/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#e23333",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/gobet/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/gobet/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "games",
+        "entertainment"
+    ],
+    "shortcuts": [
+        {
+            "name": "Play Aviator",
+            "url": "/gobet/casino/aviator",
+            "description": "Jump into Aviator crash game"
+        },
+        {
+            "name": "Spin Wheel",
+            "url": "/gobet/casino/wheel",
+            "description": "Try your luck on the wheel"
+        }
+    ]
+}
